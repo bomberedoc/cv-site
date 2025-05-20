@@ -2,40 +2,168 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://bomberedoc.github.io/cv-site/about/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/cv/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/tags/css/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/markdown-syntax.pt-br/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/tags/html/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/tags/hugo/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/authors/lone-coder/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/tags/markdown/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/markdown-syntax/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/authors/programador-solit%C3%A1rio/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/series/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/categories/sintaxe/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/categories/syntax/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/categories/theme-demo/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/series/theme-demo/</loc>
+    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/rich-content.pt-br/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/rich-content/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/tags/shortcodes/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/more-rich-content.pt-br/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/more-rich-content/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/math-typesetting.pt-br/</loc>
+    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/math-typesetting/</loc>
+    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/html-and-css-only-tabs/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/html-and-css-only-tabs.pt-br/</loc>
+    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/mermaid-support/</loc>
+    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/mermaid-support.pt-br/</loc>
+    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/tags/emoji/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/emoji-support/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/emoji-support.pt-br/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/hugo-coder-wiki/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/hugo-coder-wiki/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/placeholder-text/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/tags/text/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/placeholder-text.pt-br/</loc>
+    <lastmod>2023-07-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/authors/</loc>
+    <lastmod>2023-01-05T01:15:52+01:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/autores/autores-de-hugo/</loc>
+    <lastmod>2023-01-05T01:15:52+01:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/authors/hugo-authors/</loc>
+    <lastmod>2023-01-05T01:15:29+01:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/categories/</loc>
+    <lastmod>2023-01-04T23:21:18+01:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/categoria/temas/</loc>
+    <lastmod>2023-01-04T23:21:18+01:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/categoria/sintaxe/</loc>
+    <lastmod>2023-01-04T23:21:06+01:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/tags/shortcodes/_index.pt-br/</loc>
+    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/tags/</loc>
+    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
+  </url><url>
+    <loc>https://bomberedoc.github.io/cv-site/posts/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://bomberedoc.github.io/cv-site/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/2020/12/01/hello-r-markdown/</loc>
+    <loc>https://bomberedoc.github.io/cv-site/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/tags/plot/</loc>
+    <loc>https://bomberedoc.github.io/cv-site/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://bomberedoc.github.io/cv-site/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://bomberedoc.github.io/cv-site/about.pt-br/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://bomberedoc.github.io/cv-site/contact/</loc>
   </url><url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://bomberedoc.github.io/cv-site/contact/</loc>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <loc>https://bomberedoc.github.io/cv-site/projects/</loc>
   </url><url>
-    <loc>/2016/12/30/a-plain-markdown-post/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url><url>
-    <loc>/2015/01/01/lorem-ipsum/</loc>
-    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+    <loc>https://bomberedoc.github.io/cv-site/projects/</loc>
   </url>
 </urlset>
