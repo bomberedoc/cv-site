@@ -1,5 +1,5 @@
-baseURL: http://www.example.com
-title: johndoe
+baseURL: https://bomberedoc.github.io/cv-site/
+title: BMFTW
 theme: hugo-coder
 languageCode: en
 defaultContentLanguage: en
