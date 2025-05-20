@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anjan Ghosh</title>
-    <link>https://bomberedoc.github.io/cv-site/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Anjan Ghosh</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="https://bomberedoc.github.io/cv-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plot</title>
-      <link>https://bomberedoc.github.io/cv-site/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://bomberedoc.github.io/cv-site/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     <item>
       <title>R Markdown</title>
-      <link>https://bomberedoc.github.io/cv-site/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://bomberedoc.github.io/cv-site/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Regression</title>
-      <link>https://bomberedoc.github.io/cv-site/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://bomberedoc.github.io/cv-site/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
   </channel>
